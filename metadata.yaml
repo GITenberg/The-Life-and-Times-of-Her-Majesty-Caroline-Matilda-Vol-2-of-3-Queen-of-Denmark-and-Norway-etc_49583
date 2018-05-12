@@ -1,10 +1,16 @@
 _repo: The-Life-and-Times-of-Her-Majesty-Caroline-Matilda-Vol-2-of-3-Queen-of-Denmark-and-Norway-etc_49583
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49583-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Wraxall, Sir C. F. Lachelles
     gutenberg_agent_id: '45425'
     url: http://www.gutenberg.org/2009/agents/45425
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49583#The-Life-and-Times-of-Her-Majesty-Caroline-Matilda-Vol-2-of-3-Queen-of-Denmark-and-Norway-etc
 gutenberg_issued: '2015-08-03'
 gutenberg_type: Text
 identifiers:
