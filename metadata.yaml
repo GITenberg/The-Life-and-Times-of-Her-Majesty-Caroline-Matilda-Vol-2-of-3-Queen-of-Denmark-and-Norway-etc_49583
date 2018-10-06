@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Life and Times of Her Majesty Caroline Matilda, Vol. 2 (of 3)
 
   Queen of Denmark and Norway etc.'
